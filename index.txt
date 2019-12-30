@@ -1,1 +1,14 @@
 hello this my index file of version 3 in github 
+
+
+Important commands in github
+git --version
+git status
+git init
+git add .
+git config --global user.name "    "
+git config --global user.email "    "
+git log
+git commit -m "message here"
+git push -u origin master
+git pull  origin master
